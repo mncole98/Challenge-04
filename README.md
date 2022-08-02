@@ -12,3 +12,13 @@ This project has the following features:
 * An appended HTML page that features questions, and multiple choice answers
 * If questions are answered incorrectly, 5 seconds are deducted off remaining time
 * Answers are recording using an event listener, "click" and tracks correct answers
+* An appended HTML page that features:
+  * Final score which is calculated using time remaining
+  * A Summary of how many questions answered correctly
+  * Input area to record initials
+  * A Submit button
+  * Submit buttom saves initials and score to local storage
+* A Highscores HTML
+    * This is a list summary of intials and final scores
+    * Clear button resets the page and local storage
+    * Go back button travels to the start of the quiz
